@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/directPay/static/css/main.96645bb1.chunk.css",
+    "main.js": "/directPay/static/js/main.f28c8c6f.chunk.js",
+    "main.js.map": "/directPay/static/js/main.f28c8c6f.chunk.js.map",
+    "runtime-main.js": "/directPay/static/js/runtime-main.87b05549.js",
+    "runtime-main.js.map": "/directPay/static/js/runtime-main.87b05549.js.map",
+    "static/js/2.07925c77.chunk.js": "/directPay/static/js/2.07925c77.chunk.js",
+    "static/js/2.07925c77.chunk.js.map": "/directPay/static/js/2.07925c77.chunk.js.map",
+    "static/js/3.ac42750d.chunk.js": "/directPay/static/js/3.ac42750d.chunk.js",
+    "static/js/3.ac42750d.chunk.js.map": "/directPay/static/js/3.ac42750d.chunk.js.map",
+    "index.html": "/directPay/index.html",
+    "static/css/main.96645bb1.chunk.css.map": "/directPay/static/css/main.96645bb1.chunk.css.map",
+    "static/js/2.07925c77.chunk.js.LICENSE.txt": "/directPay/static/js/2.07925c77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b05549.js",
+    "static/js/2.07925c77.chunk.js",
+    "static/css/main.96645bb1.chunk.css",
+    "static/js/main.f28c8c6f.chunk.js"
+  ]
+}
