@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .bankLogo{
+      margin: auto;
+      max-width: 250px;
+      margin-bottom: 75px;
+    }
+  }
